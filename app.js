@@ -1,6 +1,6 @@
 // ─── НАСТРОЙКИ ───────────────────────────────────────────────
 // Вставь сюда URL своего Google Apps Script Web App
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwXEMCnW1ioQF39mFZvLjH7FBBT0hRk2hw6hB_A0j0lKrU1fiZMYyFGqGzEjxTsQXqG/exec';
 
 // Список вопросов — добавляй/меняй здесь
 const QUESTIONS = [
